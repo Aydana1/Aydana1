@@ -1,14 +1,11 @@
 ## Hi there 👋
 
 <!--
-**Aydana1/Aydana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aydana1/Aydana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Sustainability and Explainability for Fraud Detection in Healthcare Systems 
+- 🔭 I’m currently working on Sustainability and Explainability for Fraud Detection in Healthcare Systems. 
 - 🌱 I’m currently learning Explainabile AI, MLOPS, Generative AI, and Natural Language Processing.
 - 👯 I’m looking to collaborate on research projects in Computer Vision, Machine Learning and NLP topics.
 - 📫 How to reach me: https://www.linkedin.com/in/nurakhmetova/
 - 😄 Pronouns: She/her
 - ⚡ Hobbies: Painting, swimming, cycling and reading.
--->
