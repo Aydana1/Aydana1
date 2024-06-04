@@ -6,6 +6,4 @@
 - 🔭 I’m currently working on Sustainability and Explainability for Fraud Detection in Healthcare Systems. 
 - 🌱 I’m currently learning Explainabile AI, MLOPS, Generative AI, and Natural Language Processing.
 - 👯 I’m looking to collaborate on research projects in Computer Vision, Machine Learning and NLP topics.
-- 📫 How to reach me: https://www.linkedin.com/in/nurakhmetova/
-- 😄 Pronouns: She/her
 - ⚡ Hobbies: Painting, swimming, cycling and reading.
